@@ -5,14 +5,25 @@
 ###
 
 <div align="center">
-  <a href="linkedin.com/in/putu-ananda-yudhistira-adnyana" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/putu-ananda-yudhistira-adnyana" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52"
+         height="40"
+         alt="linkedin logo" />
   </a>
-  <a href="instagram.com/nandayudhis_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/nandayudhis_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52"
+         height="40"
+         alt="instagram logo" />
   </a>
-  <a href="putuadnyana657@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+
+  <a href="mailto:putuadnyana657@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52"
+         height="40"
+         alt="gmail logo" />
   </a>
 </div>
 
