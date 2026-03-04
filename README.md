@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm AnandaYudhistira from Singaraja,Bali<br><br>- 🔭 I'm working as a Frontend Developer focusing on building modern and responsive interfaces using Next.js and Tailwind CSS.<br>- 📚 I'm currently studying Information Technology at Atma Jaya University Yogyakarta, with a current focus on the Backend side using Next.js to create integrated application solutions.</p>
+<p align="left">I'm AnandaYudhistira from Singaraja,Bali<br><br>- 🔭 I'm working as a Frontend Developer focusing on building modern and responsive interfaces using Next.js and Tailwind CSS.<br>- 📚 I'm currently studying Information Systems at Atma Jaya University Yogyakarta, with a current focus on the Backend side using Next.js to create integrated application solutions.</p>
 
 ###
 
